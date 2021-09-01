@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashkorekar
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...humor
-- 💞️ I’m looking to collaborate on ...i aslo don't know
+- 💞️ I’m looking to collaborate on ...i also don't know
 - 📫 How to reach me ...don't reach me😃
 
 <!---
