@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...technologies
 - 💞️ I’m looking to collaborate on ...projects
-- 📫 How to reach me ...yashkorekar23@gmai.com
+- 📫 How to reach me ...yashkorekar23@gmail.com
 - ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
