@@ -67,10 +67,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Yashkorekar/Yashkorekar/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 Yashkorekar/Yashkorekar is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
