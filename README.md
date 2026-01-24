@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Korekar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Polarion+Custom+Development;Java+%7C+JavaScript+%7C+System+Design;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Polarion+Custom+Development;Java+%7C+JavaScript+%7C+System+Design;Always+Learning+New+Things" />
 </p>
 
 ---
