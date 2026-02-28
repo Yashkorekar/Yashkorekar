@@ -23,8 +23,6 @@
 name: Yash Korekar
 role: Full Stack Developer @ Siemens (Polarion ALM)
 experience: 2.5+ years
-education: B.Tech in Electronics & Telecommunication (CGPA: 8.65/10)
-location: India
 ```
 
 - **Currently:** Building enterprise-grade dashboards, workflow automation & CI/CD pipelines at **Siemens Polarion ALM**
@@ -149,43 +147,6 @@ location: India
 - **Bill of Quantities** dashboard: Excel upload → dynamic tables + cost calculations (Spring Boot + React.js)
 
 </details>
-
----
-
-## 🏗️ Featured Projects
-
-<a href="https://github.com/Yashkorekar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashkorekar&repo=Yashkorekar&theme=tokyonight&hide_border=true" />
-</a>
-
-> **B-UBER** — Decentralized ride-booking app on Ethereum Rinkeby testnet | Next.js, Tailwind, Sanity.io, MapBox, MetaMask
->
-> **Gesture Control** — Replace keyboard & mouse with hand gestures | Python, MediaPipe, TensorFlow, Face Authentication
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yashkorekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashkorekar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkorekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashkorekar&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yashkorekar/Yashkorekar/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 
