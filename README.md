@@ -22,7 +22,7 @@
 ```yaml
 name: Yash Korekar
 role: Full Stack Developer @ Siemens (Polarion ALM)
-experience: 2.8+ years
+experience: 3+ years
 ```
 
 - **Currently:** Building enterprise-grade dashboards, workflow automation & CI/CD pipelines at **Siemens Polarion ALM**
